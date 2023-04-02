@@ -1,4 +1,4 @@
-# control-web
+# nextjs-tailwindcss-redux-boilerplate
 
 ## Documentation
 
